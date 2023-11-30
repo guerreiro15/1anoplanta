@@ -6,7 +6,7 @@ turma do 1° ano ensino médio planta Deodoro
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sobre a Barbearia Alura</title>
+    <title>Sobre a Barbearia Alura<title>
 </head>
 <body>
   <img src 'logo.png'alt'logo
